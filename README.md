@@ -16,7 +16,7 @@ MOPS: Medical Onchain Patient System which is basically a website for  Decentral
 | Blockchain & Web3     | Basic blockchain concepts, Some Bitcoin fundamentals through **Grokking Bitcoin**, preparing for **Solidity** |
 | Tools & Workflow      | Git, GitHub, basic CLI usage                                               |
 
-Outside of tech, I enjoy being around people, debating, dramatics, and communication are areas I’m actively involved in.
+Outside of tech, I enjoy being around people, **debating, acting, and communication** are areas I’m actively involved in.
 
 ## 'Let's build great things together !' :)
 
