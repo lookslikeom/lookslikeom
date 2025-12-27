@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Om 
-I’m a first year undergraduate at IIT Roorkee with a strong interest in Decentralized technologies.   
-My work so far has been centered around JavaScript based development and C++, and I’m currently transitioning towards learning Solidity and smart-contract development.
+I’m a first year undergraduate at IIT Roorkee with a strong interest in Decentralized web (web3).    
+My work so far has been centered around JavaScript based development and C++, and I’m currently transitioning towards learning Solidity and smart contract development.
 
-I’m particularly interested in blockchain and Web3 from a fundamentals perspective and fascinated by the growth of web3 these days.
+I’m particularly interested in blockchain and Web3 & fascinated by the growth of web3 these days.
 
 I also participated in Syntax Error which gave me a hands on experience to the world of development through my team's project 
 
